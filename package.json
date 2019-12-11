@@ -1,0 +1,22 @@
+{
+  "name": "mxgraph-fishbone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev-server.js",
+  "scripts": {
+    "start": "node ./dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyl/mxgraph-fishbone.git"
+  },
+  "author": "huangyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyl/mxgraph-fishbone/issues"
+  },
+  "homepage": "https://github.com/huangyl/mxgraph-fishbone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
