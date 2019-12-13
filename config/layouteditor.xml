@@ -1,0 +1,13 @@
+<mxEditor layoutDiagram="1" layoutSwimlanes="1" maintainSwimlanes="1">
+	<include name="config/wfeditor-commons.xml"/>
+	<ui>
+		<add as="graph" element="graph" style=""/>
+		<add as="toolbar" element="toolbar"/>
+	</ui>
+	<mxGraph as="graph" swimlaneNesting="0">
+		<include name="config/wfgraph-commons.xml"/>
+	</mxGraph>
+	<mxDefaultToolbar as="toolbar">
+		<include name="config/wftoolbar-commons.xml"/>
+	</mxDefaultToolbar>
+</mxEditor>

@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: url(../images/grid.gif);
+    /* position: absolute; */
+    overflow: hidden;
+    margin: 50px auto;
+    width: 1000px;
+    height: 1500px;
+}
+
+.outline {
+    position: fixed;
+    overflow: hidden;
+    top: 200px;
+    right: 10px;
+    z-index: 2;
+    background: #FFF;
+    width: 150px;
+    height: 200px;
+
+    border: 1px solid #000;
+}
+
+.toolbar {
+    position: fixed;
+    top: 0px;
+    width: 100px;
+    left: 0px;
+    bottom: 0;
+    background: #f3f3f3;
+}

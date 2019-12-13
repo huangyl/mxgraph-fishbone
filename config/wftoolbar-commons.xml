@@ -1,0 +1,8 @@
+<mxDefaultToolbar>
+	<add as="select" mode="select" icon="images/selectpicker.png" />
+
+	<add as="open" action="open"  icon="images/open.png" />
+    <add as="Task" template="task"  icon="images/rectangle.png" />
+	<add as="delete" action="delete"  icon="images/delete.png" />
+	<add as="save" action="save"  icon="images/save.png" />
+</mxDefaultToolbar>

@@ -1,0 +1,21 @@
+<mxGraph alternateEdgeStyle="verticalEdge" dropEnabled="1">
+	<add as="convertValueToString">
+		function(cell)
+		{
+			return ''
+		}
+	</add>
+	<mxStylesheet as="stylesheet">
+		<add as="defaultVertex">
+			<add as="shape" value="label"/>
+			<add as="perimeter" value="rectanglePerimeter"/>
+			<add as="labelBackgroundColor" value="white"/>
+			<add as="fontSize" value="10"/>
+			<add as="align" value="center"/>
+			<add as="verticalAlign" value="middle"/>
+			<add as="strokeColor" value="#FF0000"/>
+			<add as="strokeWidth" value="2"/>
+		</add>
+	</mxStylesheet>
+    
+</mxGraph>

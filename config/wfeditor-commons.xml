@@ -1,0 +1,34 @@
+<mxEditor defaultGroup="group" defaultEdge="edge"
+	forcedInserting="0"
+	swimlaneRequired="0">
+	<Array as="templates">
+		<add as="task">
+			<Task label="task" description="task">
+				<mxCell vertex="1">	
+					<mxGeometry as="geometry" width="72" height="32"/>
+				</mxCell>
+			</Task>
+		</add>
+		<add as="shape">
+			<Shape label="" description="" href="">
+				<mxCell vertex="1" style="ellipse">		
+					<mxGeometry as="geometry" width="32" height="32"/>
+				</mxCell>
+			</Shape>
+		</add>
+	</Array>
+    <Array as="actions">
+		<add as="save"><![CDATA[
+			function (editor)
+			{
+				save(editor);
+			}
+		]]></add>
+        <add as="open"><![CDATA[
+			function (editor)
+			{
+				open(editor);
+			}
+		]]></add>
+	</Array>
+</mxEditor>
